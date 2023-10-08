@@ -1,0 +1,11 @@
+version: "3"
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./prometheus.yml:/prometheus.yml
+      - ./demos:/demos
+    command:
+      - --config.file=/prometheus.yml
+    ports:
+      - 9090:9090
