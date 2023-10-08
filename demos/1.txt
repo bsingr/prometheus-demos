@@ -1,0 +1,18 @@
+# TYPE one_x gauge
+# HELP one_x one example of unit x (timeframe: 8 oct 2023 at 0:00)
+one_x 1 1696716000
+one_x 1 1696716020
+one_x 1 1696716040
+one_x 1 1696716060
+one_x 1 1696716120
+one_x 1 1696716125
+one_x 1 1696716130
+one_x 1 1696716135
+one_x 1 1696716140
+one_x 1 1696716141
+one_x 1 1696716142
+one_x 1 1696716143
+one_x 1 1696716145
+one_x 1 1696716300
+one_x 1 1696716900
+# EOF
