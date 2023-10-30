@@ -1,0 +1,18 @@
+# TYPE two_x gauge
+# HELP two_x two example of unit x (timeframe: 8 oct 2023 at 0:00)
+two_x 1 1696716000
+two_x 2 1696716020
+two_x 1 1696716040
+two_x 2 1696716060
+two_x 2 1696716120
+two_x 2 1696716125
+two_x 1 1696716130
+two_x 1 1696716135
+two_x 1 1696716140
+two_x 2 1696716141
+two_x 2 1696716142
+two_x 1 1696716143
+two_x 1 1696716145
+two_x 1 1696716300
+two_x 1 1696716900
+# EOF
